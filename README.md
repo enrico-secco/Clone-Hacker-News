@@ -1,8 +1,9 @@
 "# Clone-Hacker-News" 
-Clone do Hacker News feito por mim no NPI (Núcleo de Práticas em Informática) da Unifil Londrina.
+Clone do site Hacker News feito durante estudos no NPI (Núcleo de Práticas em Informática) da Unifil Londrina.
+Foi feito usando flexbox e com desgin responsivo, conforme é o site oficial.
 <br />
-Nesse projeto foi utilizado o **float** ao invés do **flexbox**, porque não tinha conhecimento sobre o flexbox.
+A hacker news clone coded during my studies at NPI Unifil Londrina.
+It was done using flexbox and it has responsive design, like the official site.
 <br />
 
-![Tela](images/tela.png)
-![Tela](images/tela2.png)
+![Screen](images/ScreenCapture.png)

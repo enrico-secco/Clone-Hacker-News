@@ -1,0 +1,150 @@
+.container{
+    background-color: #f3f3f3;
+    width: 85%;
+    max-width: 1500px;
+    height: 100%;
+    
+
+    margin: 15px auto;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADER */
+header{
+    
+    background-color:#f15a13;
+    height: 27px;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-size: 12px;
+}
+
+#menu{ /* Colocando imagem e responsive-direction em row */
+    display: flex;
+    align-items: center;
+}
+
+#responsive-direction{
+    display: flex;
+    flex-direction: row;
+}
+
+#menu img{
+    width: 25px;
+    height: 25px;
+}
+
+#menu a{
+    padding-left: 7px;
+    text-decoration: none;
+    color: black;
+}
+
+#menu #responsive-title{
+    font-weight: bold;
+}
+
+
+#login a{
+    text-decoration: none;
+    color: black;
+
+    padding-right: 5px;
+}
+
+/* POSTS */
+.post{
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description img{
+    width: 10px;
+    height: 10px;
+}
+
+.description a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+.description :first-child{
+    color: #9c9494 
+}
+
+.description :last-child{
+    color: #9c9494;
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.comments{
+    padding-left: 30px;
+}
+
+.comments a{
+    text-decoration: none;
+    color: #9c9494;
+    font-size: 9px;
+    
+}
+
+/* ELEMENTS */
+p a{
+    padding-left: 40px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+.container hr{
+    
+    background-color:#f15a13 ;
+    height: 2px;
+    border: none;
+}
+
+/* FOOTER */
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .links a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+}
+
+.footer .links a#bar{
+    color: #9c9494;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.footer .input{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer .input a{
+    color: #9c9494;
+    font-size: 10px;
+}
+
+
+.footer .input input{
+  width: 50%;
+}
+
+
+
