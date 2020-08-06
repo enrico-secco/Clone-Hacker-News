@@ -1,4 +1,4 @@
-"# Clone-Hacker-News" 
+# Clone-Hacker-News #
 Clone do site Hacker News feito durante estudos no NPI (Núcleo de Práticas em Informática) da Unifil Londrina.
 Foi feito usando flexbox e com desgin responsivo, conforme é o site oficial.
 <br />
